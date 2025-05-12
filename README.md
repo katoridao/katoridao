@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nahhhh
 - 📫 How to reach me: https://linktr.ee/katoridao
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: a lazy guy :)
+- ⚡ Fun fact: simple
 
 <!---
 katoridao/katoridao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
