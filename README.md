@@ -1,70 +1,40 @@
-<h1 align="center">Dao Hoang Anh</h1>
+<h1 align="center">Hoang Anh</h1>
 
 <p align="center">
-Mobile & Software Developer
+Mobile Developer
 </p>
 
 <p align="center">
-<a href="mailto:yourmail@gmail.com">Email</a> ·
-<a href="https://github.com/yourgithub">GitHub</a>
+<a href="mailto:hoanganhdao2k3@gmail.com">Email</a> ·
+<a href="https://github.com/katoridao">GitHub</a>
 </p>
 
 ---
 
-## About
+## Stack
 
-Developer interested in building mobile applications and software systems.
+**Languages**
 
-Focus areas:
+Java • Kotlin • C# • Python • JavaScript • HTML • CSS
 
-- Mobile development
-- Backend services
-- System architecture
-- Clean and maintainable code
-
----
-
-## Languages
-
-Java • Kotlin • C# • Python • JavaScript  
-HTML • CSS
-
----
-
-## Backend
+**Backend**
 
 Node.js • Express
 
----
-
-## Database
+**Database**
 
 MongoDB • MySQL • Firebase
 
----
-
-## Tools
+**Tools**
 
 Git • Postman • Ngrok
 
----
+**IDE**
 
-## IDE
-
-Android Studio • Visual Studio Code • Unity
+Android Studio • VS Code • Unity
 
 ---
-
-## GitHub
 
 <p align="center">
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&hide_border=true"/>
 </p>
-
----
-
-## Contact
-
-Email: yourmail@gmail.com  
-GitHub: github.com/yourgithub
