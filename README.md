@@ -1,9 +1,7 @@
-<!-- ================= HEADER ================= -->
-
-<h1 align="center">Hoang Anh</h1>
+<h1 align="center">Dao Hoang Anh</h1>
 
 <p align="center">
-Mobile Developer • React Native • Flutter
+Mobile & Software Developer
 </p>
 
 <p align="center">
@@ -15,65 +13,53 @@ Mobile Developer • React Native • Flutter
 
 ## About
 
-I build mobile apps and enjoy turning ideas into simple, working products.
+Developer interested in building mobile applications and software systems.
 
-Right now I'm focusing on:
+Focus areas:
 
 - Mobile development
-- Clean architecture
-- App performance
-- UI that feels smooth and natural
+- Backend services
+- System architecture
+- Clean and maintainable code
 
 ---
 
-## Tech
+## Languages
 
-**Mobile**
+Java • Kotlin • C# • Python • JavaScript  
+HTML • CSS
 
-React Native • Flutter
+---
 
-**Languages**
-
-JavaScript • TypeScript • Dart
-
-**Backend**
+## Backend
 
 Node.js • Express
 
-**Database**
+---
 
-MongoDB • MySQL • PostgreSQL
+## Database
 
-**Tools**
-
-Git • Docker • Vite
+MongoDB • MySQL • Firebase
 
 ---
 
-## Projects
+## Tools
 
-**Smart Home System**
-
-IoT system to monitor and control devices inside a house.
-
-Tech:
-React Native • Node.js • MongoDB • ESP32
-
-**Mobile Portfolio**
-
-Personal portfolio app built to showcase projects and skills.
-
-**Experiment Apps**
-
-Small apps used to test UI ideas, state management and architecture.
+Git • Postman • Ngrok
 
 ---
 
-## GitHub Stats
+## IDE
+
+Android Studio • Visual Studio Code • Unity
+
+---
+
+## GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&hide_border=true"/>
 </p>
 
 ---
