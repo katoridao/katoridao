@@ -5,8 +5,7 @@ Mobile Developer
 </p>
 
 <p align="center">
-<a href="mailto:hoanganhdao2k3@gmail.com">Email</a> ·
-<a href="https://github.com/katoridao">GitHub</a>
+<a href="mailto:hoanganhdao2k3@gmail.com">Email</a>
 </p>
 
 ---
@@ -32,9 +31,3 @@ Git • Postman • Ngrok
 **IDE**
 
 Android Studio • VS Code • Unity
-
----
-
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&hide_border=true"/>
-</p>
