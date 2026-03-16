@@ -1,8 +1,7 @@
 <h1 align="center">Dao Hoang Anh</h1>
 
 <p align="center">
-Mobile Developer | Android | Backend
-</p>
+Mobile Developer | Android | Backend</p>
 
 <p align="center">
 Java • Kotlin • C# • Python • JavaScript • Node.js • Express • MongoDB • MySQL • Firebase
@@ -12,6 +11,4 @@ Java • Kotlin • C# • Python • JavaScript • Node.js • Express • Mon
 Android Studio • VS Code • Unity • Git • Postman • Ngrok
 </p>
 
-<p align="center">
-hoanganhdao2k3@gmail.com
-</p>
+<p align="center"> <a href="mailto:hoanganhdao2k3@gmail.com">Contact</a> </p>
