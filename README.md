@@ -5,29 +5,16 @@ Mobile Developer
 </p>
 
 <p align="center">
-<a href="mailto:hoanganhdao2k3@gmail.com">Email</a>
+Java • Kotlin • C# • Python • JavaScript  
+Node.js • Express  
+MongoDB • MySQL • Firebase
 </p>
 
----
-
-## Stack
-
-**Languages**
-
-Java • Kotlin • C# • Python • JavaScript • HTML • CSS
-
-**Backend**
-
-Node.js • Express
-
-**Database**
-
-MongoDB • MySQL • Firebase
-
-**Tools**
-
+<p align="center">
+Android Studio • VS Code • Unity  
 Git • Postman • Ngrok
+</p>
 
-**IDE**
-
-Android Studio • VS Code • Unity
+<p align="center">
+hoanganhdao2k3@gmail.com
+</p>
