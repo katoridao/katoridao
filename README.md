@@ -3,11 +3,9 @@
 </h1>
 
 <p align="center">
-  Android Developer (Kotlin) | Backend (Node.js)
-</p>
-
-<p align="center">
-  Focus on building scalable mobile apps and RESTful APIs
+  <strong>
+    Android Developer (Kotlin) | Backend (Node.js)
+  </strong>
 </p>
 
 <p align="center">
