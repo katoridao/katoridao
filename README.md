@@ -4,18 +4,28 @@
 
 <p align="center">
   <strong>
-    Android Developer (Java/Kotlin) | Backend (Node.js)
+    Android Developer (Java/Kotlin/React Native)
   </strong>
 </p>
 
 <p align="center">
   <strong>
-    Core:
+    Core skill:
   </strong>
 </p>
 
 <p align="center">
-  Java • Kotlin • Android SDK
+  Java • Kotlin • JavaScript
+</p>
+
+<p align="center">
+  <strong>
+    Non-core skill:
+  </strong>
+</p>
+
+<p align="center">
+  HTML5/CSS3 • C# • Python
 </p>
 
 <p align="center">
@@ -36,6 +46,12 @@
 
 <p align="center">
   Git • Postman • Firebase
+</p>
+
+<p align="center">
+  <strong>
+    About my projects, you can check it out below!
+  </strong>
 </p>
 
 <p align="center"> 
