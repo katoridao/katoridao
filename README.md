@@ -3,17 +3,41 @@
 </h1>
 
 <p align="center">
-<strong>
-  Mobile Developer | Android | Backend
-</strong>
+  Android Developer (Kotlin) | Backend (Node.js)
 </p>
 
 <p align="center">
-Java • Kotlin • C# • Python • JavaScript • Node.js • Express • MongoDB • MySQL • Firebase
+  Focus on building scalable mobile apps and RESTful APIs
 </p>
 
 <p align="center">
-Android Studio • VS Code • Unity • Git • Postman • Ngrok
+  <strong>
+    Core:
+  </strong>
+</p>
+
+<p align="center">
+  Java • Kotlin • Android SDK
+</p>
+
+<p align="center">
+  <strong>
+    Backend:
+  </strong>
+</p>
+
+<p align="center">
+  Node.js • Express • MongoDB • MySQL
+</p>
+
+<p align="center">
+  <strong>
+    Tools:
+  </strong>
+</p>
+
+<p align="center">
+  Git • Postman • Firebase
 </p>
 
 <p align="center"> 
