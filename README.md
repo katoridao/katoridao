@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    Android Developer (Kotlin) | Backend (Node.js)
+    Android Developer (Java/Kotlin) | Backend (Node.js)
   </strong>
 </p>
 
