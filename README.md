@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  HTML5/CSS3 • C# • Python
+  HTML5/CSS3 • Bootstrap • C# • Python
 </p>
 
 <p align="center">
