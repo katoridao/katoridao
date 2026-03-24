@@ -38,12 +38,6 @@
   MySQL • Firebase • Node.js • Express • MongoDB
 </p>
 
-<p align="center">
-  <strong>
-    About projects, you can check it out below!
-  </strong>
-</p>
-
 <p align="center"> 
   <a href="mailto:hoanganhdao2k3@gmail.com">
     Contact for work
