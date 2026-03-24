@@ -35,22 +35,12 @@
 </p>
 
 <p align="center">
-  Node.js • Express • MongoDB • MySQL
+  MySQL • Firebase • Node.js • Express • MongoDB
 </p>
 
 <p align="center">
   <strong>
-    Tools:
-  </strong>
-</p>
-
-<p align="center">
-  Git • Postman • Firebase
-</p>
-
-<p align="center">
-  <strong>
-    About my projects, you can check it out below!
+    About projects, you can check it out below!
   </strong>
 </p>
 
