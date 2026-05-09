@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>
-    Android Developer (Java/Kotlin/React Native)
+    Android Application Developer (Java/Kotlin/React Native)
   </strong>
 </p>
 
