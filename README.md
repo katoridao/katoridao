@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Java • Kotlin • JavaScript
+  Java • Kotlin • JavaScript • RESTful APIs
 </p>
 
 <p align="center">
