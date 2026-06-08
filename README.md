@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dao Hoang Anh</h1>
 
 <p align="center">
-  <strong>Android & Backend Developer • IoT & Game Enthusiast</strong>
+  <strong>Fresher Mobile Developer</strong>
 </p>
 
 <p align="center">
