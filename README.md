@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <strong>Core:</strong> Java • Kotlin • React Native • Node.js • Express • RESTful APIs
+  <strong>Core:</strong> Java • Kotlin • JavaScript • React Native • Node.js • RESTful APIs
 </p>
 
 <p align="center">
-  <strong>Web & Other:</strong> HTML5/CSS3 • Bootstrap • Tailwind • JavaScript • jQuery • C# • Unity • Python
+  <strong>Web & Other:</strong> HTML5/CSS3 • Bootstrap • Tailwind • jQuery • C# • Unity • Python
 </p>
 
 <p align="center">
-  <strong>Database & Cloud:</strong> MySQL • MongoDB • Firebase
+  <strong>Database & Cloud:</strong>SMSS • SQLite • MySQL • MongoDB • Firebase
 </p>
 
 <p align="center">
