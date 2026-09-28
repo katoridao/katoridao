@@ -1,21 +1,34 @@
 <h1 align="center">Hi, I'm Dao Hoang Anh</h1>
+<h3 align="center">Fresher Mobile Developer</h3>
 
 <p align="center">
-  <strong>Fresher Mobile Developer</strong>
+  A passionate Mobile & Software Developer from Vietnam, focused on building clean, efficient, and user-friendly applications.
 </p>
 
 <p align="center">
-  <strong>Core:</strong> Java • Kotlin • JavaScript • React Native • Node.js • RESTful APIs
+  <a href="mailto:hoanganhdao2k3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hoanganhdao2k3%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/katoridao">
+    <img src="https://img.shields.io/badge/GitHub-katoridao-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
-<p align="center">
-  <strong>Web & Other:</strong> HTML5/CSS3 • Bootstrap • Tailwind • jQuery • C# • Unity • Python
-</p>
+---
 
-<p align="center">
-  <strong>Database & Cloud:</strong>SMSS • SQLite • MySQL • MongoDB • Firebase
-</p>
+### Tech Stack
 
-<p align="center">
-  <a href="mailto:hoanganhdao2k3@gmail.com">Contact for work</a>
-</p>
+- **Mobile Development:** Java, Kotlin, React Native, Android SDK
+- **Backend & Web:** Node.js, Express.js, JavaScript, HTML5/CSS3, Tailwind CSS
+- **Databases & Cloud:** MongoDB, Firebase, PostgreSQL, MySQL, SQLite
+- **Tools & Platforms:** Git, GitHub, Android Studio, VS Code, Postman, Figma
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **iControlHome** | Smart Home IoT ecosystem with real-time hardware control and power analytics | Node.js, React Native, Socket.IO, ESP32, Firebase | [Source Code](https://github.com/katoridao/Ictrlhome) |
+| **Bittweet** | Online beverage ordering app with live state management | Java, Kotlin, Android Studio, Firebase, MVVM | [Live Demo](https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum) |
+| **My Tamagotchi** | Responsive web-based virtual pet simulation game | HTML5, CSS3, JavaScript, Firebase | [Live Demo](https://katoridao.github.io/MyTamagotchi/) |
