@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Dao Hoang Anh</h1>
-<h3 align="center">Fresher Mobile Developer</h3>
-
-<p align="center">
-  A passionate Mobile & Software Developer from Vietnam, focused on building clean, efficient, and user-friendly applications.
-</p>
+<h2 align="center">Fresher Mobile Developer</h2>
 
 <p align="center">
   <a href="mailto:hoanganhdao2k3@gmail.com">
