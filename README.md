@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm DevHA</h1>
-<h2 align="center">Fresher Mobile Developer</h2>
+<h2 align="center">Mobile Developer | React Native & Android</h2>
 
 <p align="center">
   <a href="mailto:hoanganhdao2k3@gmail.com">
