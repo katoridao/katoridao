@@ -27,4 +27,3 @@
 | :--- | :--- | :--- | :--- |
 | **Ictrlhome** | Smart Home IoT ecosystem with real-time hardware control and power analytics | Node.js, React Native, Socket.IO, ESP32, Firebase | [Source Code](https://github.com/katoridao/Ictrlhome) |
 | **Bittweet** | Online beverage ordering app with live state management | Java, Kotlin, Android Studio, Firebase, MVVM | [Live Demo](https://appetize.io/app/b_pastiojddv2nxmfuob2rfjyfum) |
-| **My Tamagotchi** | Responsive web-based virtual pet simulation game | HTML5, CSS3, JavaScript, Firebase | [Live Demo](https://katoridao.github.io/MyTamagotchi/) |
